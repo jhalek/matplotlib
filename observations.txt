@@ -1,0 +1,8 @@
+To me, the data wasn't surprising and really just confirmed some likely assumptions.
+
+1) There are less riders and drivers in rural areas, but the average fare is nearly 10 dollars more on average. These are likely folks going in and out of the city.
+
+2) Inversley, there are many more urban rides, but the average fares are lower. Urban rides accounted for nearly 
+   70% of the total rides in 2016.
+
+3) As a company, my suggestion would be to incentivize drivers to pick up more suburban and rural riders as there doesn't seem to be enough compared to the demand.  
